@@ -1,0 +1,8 @@
+flask==3.0.0
+flask-cors==4.0.0
+graphene==3.3
+requests==2.31.0
+scipy==1.11.4
+numpy==1.26.2
+pandas==2.1.4
+matplotlib==3.8.2

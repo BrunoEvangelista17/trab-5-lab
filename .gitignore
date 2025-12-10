@@ -1,0 +1,21 @@
+# Arquivo de configuração Git
+*.pyc
+__pycache__/
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.coverage
+htmlcov/
+*.log
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+results.json
+analysis_results.png
+summary_results.csv
